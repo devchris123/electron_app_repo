@@ -1,0 +1,25 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "A test electron application",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devchris123/electron_app_repo.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "devchris123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devchris123/electron_app_repo/issues"
+  },
+  "homepage": "https://github.com/devchris123/electron_app_repo#readme",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
